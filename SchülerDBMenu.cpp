@@ -20,7 +20,7 @@ boolean Login(){
 
 	cin >> password;
 
-
+//Test 
 
 	if (password == "admin1234") {
 		cout << "Vielen Dank! Was wollen Sie als nächstes tun?" << endl;
